@@ -16,7 +16,7 @@ If you don't have node installed, you can download it [here](https://nodejs.org/
 
 
 ## To upgrade node to the latest version, run: ⬆️
-$ n latest
+- $ n latest
 
 
 
